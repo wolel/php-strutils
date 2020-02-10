@@ -6,9 +6,10 @@
  * Time: 15:39
  */
 
-require "classes/StrUtils.php";
+require "StrUtils2.php";
 
-$utils = new StrUtils("Salut à tous");
+$utils = new StrUtils2();
+$utils->setText("New text to change");
 
 Echo "Bold : ".$utils->bold();
 
