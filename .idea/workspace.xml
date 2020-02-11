@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c51e6c8-277b-49a3-840e-f4903ae28ba0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/StrUtils2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index2.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1XcH74ifRL3Fmj93fLnT5KJ4KXw" />
@@ -64,12 +62,24 @@
       <workItem from="1548686092715" duration="2728000" />
       <workItem from="1548688870163" duration="229000" />
       <workItem from="1548689132821" duration="603000" />
-      <workItem from="1581338293080" duration="8917000" />
+      <workItem from="1581338293080" duration="9011000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1581348855558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581348855558</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="554" y="52" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581338667708">
@@ -80,6 +90,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581339885069" />
+    <state x="423" y="24" key="CommitChangelistDialog2" timestamp="1581348854491">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="423" y="24" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581348854491" />
     <state x="385" y="304" key="NewPhpClassDialog" timestamp="1581338453370">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -88,5 +102,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="634" y="354" key="NewPhpFileDialog/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581338634858" />
+    <state x="609" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581348859051">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="609" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581348859051" />
   </component>
 </project>
